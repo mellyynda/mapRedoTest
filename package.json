@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/googlemaps": "^3.43.3",
+    "@types/jquery": "^3.5.6"
+  }
+}
