@@ -449,4 +449,4 @@ const initMap = () => {
   //    ],
   //    "test");
 }
-window.initMap = initMap()
+window.initMap = initMap();
